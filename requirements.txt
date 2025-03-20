@@ -75,7 +75,7 @@ nest-asyncio==1.6.0
 nltk==3.9.1
 notebook==7.3.2
 notebook_shim==0.2.4
-numpy==2.2.3
+numpy==1.26.4
 overrides==7.7.0
 packaging==24.2
 pandas==2.2.3
@@ -109,7 +109,7 @@ rfc3986-validator==0.1.1
 rich==13.9.4
 rpds-py==0.23.1
 scikit-learn==1.6.1
-scipy==1.15.2
+scipy==1.13.1
 seaborn==0.13.2
 Send2Trash==1.8.3
 shellingham==1.5.4
